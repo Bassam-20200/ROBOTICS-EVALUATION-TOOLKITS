@@ -37,3 +37,12 @@ You may set target points in RVIZ and the robot will navigate to the location in
 
 ### resourse 
 https://github.com/Amg0z/Task-4
+
+https://github.com/Amg0z/warehouse_simulation_toolkit#33-robot-control
+
+
+
+
+
+
+![Screenshot from 2021-07-02 15-19-15](https://user-images.githubusercontent.com/54133895/127747795-d24b59ed-a724-484a-b61f-41f1792a95d0.png)
