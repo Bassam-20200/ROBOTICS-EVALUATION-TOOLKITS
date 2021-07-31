@@ -1,7 +1,7 @@
 # Task-4
 
-## 2. Prerequisites
-### 2.1 **Ubuntu** and **ROS**
+## 1. Prerequisites
+### 1.1 **Ubuntu** and **ROS**
 Ubuntu 64-bit 18.04.
 
 ROS Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
